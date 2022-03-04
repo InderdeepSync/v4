@@ -1,6 +1,6 @@
 ---
 date: '1'
-title: 'Personal Portfolio Web Application'
+title: 'Personal Portfolio Site'
 cover: './halcyon.png'
 github: 'https://github.com/InderdeepSync/v4/'
 external: 'https://fabbtown.com/'
