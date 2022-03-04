@@ -167,9 +167,9 @@ const StyledProject = styled.li`
 const Projects = () => {
   const data = useStaticQuery(graphql`
     query {
-      projects: allMarkdownRemark(
+      courses: allMarkdownRemark(
         filter: {
-          fileAbsolutePath: { regex: "/projects/" }
+          fileAbsolutePath: { regex: "/courses/" }
           frontmatter: { showInProjects: { ne: false } }
         }
         sort: { fields: [frontmatter___date], order: DESC }
@@ -206,9 +206,9 @@ const Projects = () => {
   }, []);
 
   const GRID_LIMIT = 6;
-  const projects = data.projects.edges.filter(({ node }) => node);
-  const firstSix = projects.slice(0, GRID_LIMIT);
-  const projectsToShow = showMore ? projects : firstSix;
+  const courses = data.courses.edges.filter(({ node }) => node);
+  const firstSix = courses.slice(0, GRID_LIMIT);
+  const projectsToShow = showMore ? courses : firstSix;
 
   const projectInner = node => {
     const { frontmatter, html } = node;
