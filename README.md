@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo" src="https://raw.githubusercontent.com/bchiang7/v4/main/src/images/logo.png" width="100" />
+  <img alt="Logo" src="https://raw.githubusercontent.com/InderdeepSync/v4/main/src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
   fabbtown.com
@@ -8,7 +8,7 @@
   The website <a href="https://fabbtown.com" target="_blank">fabbtown.com</a> is built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted on S3/Cloudfront with a custom domain from Route 53 and a TLS/SSL certificate obtained from AWS Certificate Manager.
 </p>
 
-![demo](https://raw.githubusercontent.com/bchiang7/v4/main/src/images/demo.png)
+![demo](https://raw.githubusercontent.com/InderdeepSync/v4/main/src/images/demo.png)
 
 ## 🛠 Installation & Set Up
 
