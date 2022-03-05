@@ -128,15 +128,15 @@ const About = () => {
 
   const skills = [
     'JavaScript',
-    'TypeScript',
-    'React',
     'Python',
+    'Java',
+    'React',
     'Node.js',
     'Django',
     'Docker',
     'Amazon Web Services',
     'SQL',
-    'Java',
+    'HTML',
   ];
 
   return (
