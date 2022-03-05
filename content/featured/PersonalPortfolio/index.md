@@ -1,7 +1,7 @@
 ---
 date: '1'
 title: 'Personal Portfolio Site'
-cover: './halcyon.png'
+cover: './demo.png'
 github: 'https://github.com/InderdeepSync/v4/'
 external: 'https://fabbtown.com/'
 tech:
@@ -13,4 +13,4 @@ tech:
   - Cloudfront
 ---
 
-A Static Web Application built using [Gatsby](https://www.gatsbyjs.com/), a React framework. Fast, Scalable, Secure by default. Leverages several plugins to accomplish non-trivial tasks such as Image Optimization, Sourcing Data from FileSystem, SEO, Analytics, etc
+A Static Web Application built using [Gatsby](https://www.gatsbyjs.com/), a React framework. Fast, Scalable, Secure by default. Leverages several plugins to accomplish non-trivial tasks such as Image Optimization, Sourcing Data from FileSystem, SEO, Analytics, etc.

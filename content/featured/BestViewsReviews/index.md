@@ -1,7 +1,7 @@
 ---
 date: '1'
 title: 'BestViewsReviews'
-cover: './halcyon.png'
+cover: './demo.png'
 github: null
 external: 'https://bestviewsreviews.com/'
 tech:

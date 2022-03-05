@@ -1,7 +1,7 @@
 ---
 date: '1'
 title: 'AlgoExpert Python Solutions'
-cover: './halcyon.png'
+cover: './demo.png'
 github: 'https://github.com/InderdeepSync/algoexpert_problems/'
 external: null
 tech:
